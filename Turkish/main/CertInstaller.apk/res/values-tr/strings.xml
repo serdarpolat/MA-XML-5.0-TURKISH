@@ -6,9 +6,9 @@
     <string name="extracting_pkcs12">Ayıklanıyor ...</string>
     <string name="pkcs12_file_password_dialog_title">%s konumundan Ayıkla</string>
     <string name="name_credential_dialog_title">Sertifika Adı</string>
-    <string name="credential_name">Sertifika adı:</string>
+    <string name="credential_name">Sertifika Adı:</string>
     <string name="credential_password">Sertifikaları ayıklamak için parolayı girin.</string>
-    <string name="credential_info">Paket içeriği:</string>
+    <string name="credential_info">Paket İçeriği:</string>
     <string name="p12_description">PKCS12 deposunun sertifikaları.</string>
     <string name="one_userkey">Bir kullanıcı anahtarı</string>
     <string name="one_usercrt">Bir kullanıcı sertifikası</string>
@@ -18,7 +18,7 @@
     <string name="password_empty_error">Lütfen parolayı girin.</string>
     <string name="name_empty_error">Lütfen bir ad girin.</string>
     <string name="name_char_error">Lütfen yalnızca harf ve sayı içeren bir ad girin.</string>
-    <string name="storage_error">Sertifika kaydedilemiyor. Yeniden denemek için Tamam\'ı tıklatın.</string>
+    <string name="storage_error">Sertifika kaydedilemiyor. Yeniden denemek için Tamam'ı tıklatın.</string>
     <string name="unable_to_save_cert">Sertifika kaydedilemiyor. Kimlik bilgisi depolama etkin değil veya düzgün başlatılamadı.</string>
     <string name="cert_not_saved">Sertifika yüklü değil.</string>
     <string name="no_cert_to_saved">Yüklemek için sertifika yok.</string>
