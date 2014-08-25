@@ -58,8 +58,8 @@
   <string name="firewall_settings_tab_title">Filtreler</string>
   <string name="fw_action_settings">Güvenlik duvarı ayarları</string>
   <string name="fw_add_keyword">Add keywords to monitor</string>
-  <string name="fw_add_keyword_existing" formatted="false">Keyword: %s already exists</string>
-  <string name="fw_add_list_title">Telefon jumarasını girin</string>
+  <string name="fw_add_keyword_existing" formatted="false">AnahtarKelime: %s zaten var</string>
+  <string name="fw_add_list_title">Telefon numarasını girin</string>
   <string name="fw_advanced_settings">Gelişmiş Ayarlar</string>
   <string name="fw_all_day">Günlük</string>
   <string name="fw_blacklist">Kara liste</string>
@@ -101,13 +101,13 @@
   <string name="fw_notes_hint">Not (opsiyonel)</string>
   <string name="fw_notification_settings">Bildirim ayarları</string>
   <string name="fw_on">Güvenlik modu çalışıyor</string>
-  <string name="fw_period">Engelleme periyodunu girişi</string>
+  <string name="fw_period">Engelleme periyodu girişi</string>
   <string name="fw_restore_ms">Mesajlara dön</string>
   <string name="fw_set_keyword">Anahtar kelime filtresini ayarla</string>
   <string name="fw_start_time">Başlama zamanı</string>
   <string name="fw_time_settings">Engelleme takvimi</string>
   <string name="fw_whitelist">Beyaz liste</string>
-  <string name="fw_whitelist_hint">Beyaz listeye klenmiş kişiler engellenmeyecektir</string>
+  <string name="fw_whitelist_hint">Beyaz listeye eklenmiş kişiler engellenmeyecektir</string>
   <string name="log_count">(%d)</string>
   <string name="mark_number_dialog_maintitle">Bilinmeyen numarayı işaretle ve kaydet</string>
   <string name="mark_number_dialog_subtitle">Sogou ile geliştirilmiştir.</string>
