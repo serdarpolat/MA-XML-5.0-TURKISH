@@ -12,7 +12,7 @@
     <string name="address">Adres:</string>
     <string name="birthday">Doğum günü:</string>
     <string name="note">Not:</string>
-    <string name="add_to_contacts">Kişilere ekle</string>
+    <string name="add_to_contacts">Kişilere Ekle</string>
     <string name="recognize">Tanı</string>
     <string name="place_barcode_into_rectangle">QR kodu veya Barkodu dikdörtgenin içine yerleştirin</string>
     <string name="open_flash_error">Flaş açılamadı !</string>
