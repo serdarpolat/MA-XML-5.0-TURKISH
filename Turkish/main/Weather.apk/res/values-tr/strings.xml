@@ -38,7 +38,7 @@
   <string name="app_name">Hava Durumu</string>
   <string name="network_unavailable">Ağ bağlantısı yok!</string>
   <string name="app_unquiet_net">Kötü ağ bağlantısı</string>
-  <string name="aqi_details_dangerous">People with heart or lung disease, older adults, and children should avoid all physical activity outdoors. Everyone else should avoid prolonged or heavy exertion.</string>
+  <string name="aqi_details_dangerous">Kalp veya akciğer hastalığı olanlar, yaşlı erişkinler ve çocuklar açık havada fiziksel aktiviteden kaçınmalı. Uzun süreli veya ağır efor yapmaktan kaçınmalısınız.</string>
   <string name="aqi_details_fine">Unusually sensitive people should consider reducing prolonged or heavy exertion.</string>
   <string name="aqi_details_good">Weather is suitable to go out.</string>
   <string name="aqi_details_hazardous">Avoid all physical activity outdoors; people with heart or lung disease, older adults, and children should remain indoors and keep activity levels low.</string>
