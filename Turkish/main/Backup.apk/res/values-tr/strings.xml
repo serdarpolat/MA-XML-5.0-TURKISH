@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="account_contact_backup_info">Veri (Xiaomi ve Gmail\'e Yedekleme Bilgisi)</string>
+  <string name="account_contact_backup_info">Veri (Xiaomi ve Gmail'e Yedekleme Bilgisi)</string>
   <string name="account_login">Giriş</string>
   <string name="account_summary">Gmail, E-mail ve Xiaomi Hesebını Yedekle</string>
   <string name="already_enable_encrypt">Şifreleme Etkin</string>
@@ -62,7 +62,7 @@
   <string name="cloud_restore_title">Yedekleri Geri Yükle</string>
   <string name="cloud_restore_window_title">Cloud Kurtarma</string>
   <string name="cloud_search">Cloud Taranıyor...</string>
-  <string name="compute_backup_info">Yedekleme bilgi alınıyor...</string>
+  <string name="compute_backup_info">Yedekleme bilgisi alınıyor...</string>
   <string name="compute_delete_contact_info">Kişiler Aranıyor...</string>
   <string name="contact_title">Kişiler</string>
   <string name="current_account">Oturum Olarak: %s</string>
@@ -86,7 +86,7 @@
   <string name="exchange_account">Hesabı Değiştir</string>
   <string name="fail">Başarısız !</string>
   <string name="findlost_contact">Silinen Kişileri Geri Yükle</string>
-  <string name="findlost_contact_online">Silinen Kişileri Cloudtan Geri Yükle</string>
+  <string name="findlost_contact_online">Silinen Kişileri Cloud'tan Geri Yükle</string>
   <string name="guarded_mode_dialog_message">Korunan Modda Yedekleme ve Geri Yükleme Yapamazsınız</string>
   <string name="guarded_mode_dialog_title">Korunan Mod</string>
   <string name="import_from_xiaomi_account_hint1">1.MiTalk yükleyin ve giriş yapın.\n http://www.miliao.com\n\n3.  MiTalk ayarlar bölümüne gelin ve ”Kişileri Xiaomi hesabıma yedekle” yi seçin.</string>
@@ -119,7 +119,7 @@
   <string name="restore">Geri Yükle</string>
   <string name="restore_contact">Kişileri Geri Yükle</string>
   <string name="restore_contact_content">Geri yükleme kişilerde çiftlemeye neden olabilir, bunu yapmak istediğinizden emin misiniz?.\n Not: Bu kişi listesinde yinelenen kişileri birleştirebilirsiniz</string>
-  <string name="restore_contacts_hit">(Note: Daha önce orjinal hesap kurulmuş, kişileri manuel geri yükleyebilirsiniz)</string>
+  <string name="restore_contacts_hit">(Not: Daha önce orjinal hesap kurulmuş, kişileri manuel geri yükleyebilirsiniz)</string>
   <string name="restore_counts">Geri yükle:</string>
   <string name="restore_data">Verileri Geri yükle</string>
   <string name="restore_failed">Geri Yükleme Başarısız!</string>
@@ -130,7 +130,7 @@
   <string name="restore_telephony_hit">(Not: Kurtarma işleminden sonra Telefonu yeniden başlat)</string>
   <string name="retry">Yeniden Dene</string>
   <string name="reverse_all">Hepsini Temizle</string>
-  <string name="sc_bad_request">Hatalı istek</string>
+  <string name="sc_bad_request">Hatalı İstek</string>
   <string name="sc_internal_server_error">Dahili Sunucu Hatası</string>
   <string name="sc_network_unavailable">Ağ Bağlantı Hatası</string>
   <string name="sc_others">Özel Program</string>
@@ -145,9 +145,9 @@
   <string name="select_all">Tümünü Seç</string>
   <string name="select_backup_item">Yedek öğeyi seçin</string>
   <string name="service_stoped">Hizmet Durduruldu</string>
-  <string name="settings_summary">Telefon Ve Mesaj Yedekleme Ayarları</string>
+  <string name="settings_summary">Telefon ve Mesaj Yedekleme Ayarları</string>
   <string name="sms_title">Mesajlaş</string>
-  <string name="software_backup_info">Uygulama Ve verilerini Yedekle</string>
+  <string name="software_backup_info">Uygulama ve Verilerini Yedekle</string>
   <string name="start_backup">Yedeklemeyi Başlat</string>
   <string name="start_restore">Geri Yükle</string>
   <string name="succeed">Başarılı</string>
@@ -163,24 +163,24 @@
   <string name="task_failed_all_local">Görev Başarısız</string>
   <string name="task_failed_local">%s Görevi başarısız</string>
   <string name="task_finished">Bitti</string>
-  <string name="task_local_backup_cancel_dialog">Görev enüz tamamlanmamış, iptal etmek için tamama tıklayın</string>
+  <string name="task_local_backup_cancel_dialog">Görev henüz tamamlanmadı, iptal etmek için Tamam'a tıklayın</string>
   <string name="task_pending">Bekleniyor</string>
-  <string name="task_post_running">Ön hazırlama</string>
+  <string name="task_post_running">Ön Hazırlama</string>
   <string name="task_pre_running">Hazırlanıyor</string>
   <string name="task_progress">İlerleme</string>
   <string name="task_restore_cancel_dialog">Geri yükleme tamamlanmadı\nİptal edilirse veri kayıplarına neden olabilir</string>
   <string name="task_restore_cancel_progress">İptal Ediliyor...</string>
   <string name="task_restore_finished_local">Geri Yükleme Tamamlandı</string>
   <string name="task_restore_none">Geri yükleme gerekli değildir</string>
-  <string name="task_running_backup_dialog">Arka palanda çalışan yedeklemeyi görüntülemek için Tamam ı tıklayın.</string>
+  <string name="task_running_backup_dialog">Arka palanda çalışan yedeklemeyi görüntülemek için Tamam'ı tıklayın.</string>
   <string name="task_running_backup_hint">Servis arka planda çalışıyor, lütfen tekran deneyin!</string>
-  <string name="task_running_dialog">Arka planda yedekleme ve kurtarma devam ediyor, görüntülemek için Tamam ı tıklayın</string>
+  <string name="task_running_dialog">Arka planda yedekleme ve kurtarma devam ediyor, görüntülemek için Tamam'ı tıklayın</string>
   <string name="task_running_hint">Servis arka planda çalışıyor, yedeklemeyi geri yüklemek için lütfen tekrar deneyin!</string>
-  <string name="task_running_restore_dialog">Arka Geri Yükleme devam ediyor, görüntülemek için Tamam ı tıklayın.</string>
+  <string name="task_running_restore_dialog">Arka Geri Yükleme devam ediyor, görüntülemek için Tamam'ı tıklayın.</string>
   <string name="task_running_restore_hint">Servis arka planda çalışıyor, lütfen tekran deneyin!</string>
   <string name="task_service_not_launched">Servis başlatılamadı, lütfen bekleyin!</string>
   <string name="task_stopped_exception">Görev iptal edildi</string>
-  <string name="total_num">%d Toplam Kayıtl</string>
+  <string name="total_num">%d Toplam Kayıtlı</string>
   <string name="unit_byte">\u0020Bytes</string>
   <string name="unit_piece">\u0020Öğe</string>
   <string name="unknown_hint">Bilinmeyen</string>
