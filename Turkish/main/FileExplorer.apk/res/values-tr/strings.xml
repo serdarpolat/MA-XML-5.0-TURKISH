@@ -2,11 +2,11 @@
 <resources>
   <string name="account_bind_prompt">"Kullanıcı verileri işleniyor, 
   hesabınız geçici olarak kilitlenir, lütfen bekleyin ....."</string>
-  <string name="add_task">Görev ekle</string>
+  <string name="add_task">Görev Ekle</string>
   <string name="adding_upload_tasks">Yükleme görevleri ekleniyor.</string>
   <string name="already_signin_description">Zaten oturum açmış durumdasınız!</string>
   <string name="app_cache_cleanup_indication">%s veri</string>
-  <string name="app_cache_title">Uygulama verileri</string>
+  <string name="app_cache_title">Uygulama Verileri</string>
   <string name="app_garbage_cleanup_indication">%s Uygulama artıkları</string>
   <string name="app_garbage_path">Konum:</string>
   <string name="app_garbage_title">Uygulama artıkları</string>
@@ -142,8 +142,8 @@ Artık dosya"</string>
   <string name="local_cache_size">Yerel veri boyutu: %s</string>
   <string name="login_reg_content">MiDrive; dosyaları depolamanıza ve birden fazla cihaz arasında bunları senkronize etmenize yardımcı olur.</string>
   <string name="login_reg_content0">MiDrive Cloud Depolama Birimi</string>
-  <string name="menu_item_cleanup">Dosyaları temizle</string>
-  <string name="menu_item_ftp">FTP Sunucusu</string>
+  <string name="menu_item_cleanup">Dosya Temizleme</string>
+  <string name="menu_item_ftp">FTP</string>
   <string name="menu_item_search">Ara</string>
   <string name="menu_item_sort">Dosyaları Sırala</string>
   <string name="menu_item_sort_date">Tarih</string>
